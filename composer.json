@@ -1,0 +1,11 @@
+{
+  "name": "danielthegeek/divi",
+  "type": "project",
+  "license": "MIT",
+  "description": "The Divi Builder is a powerful drag and drop page builder for WordPress.",
+  "homepage": "https://www.elegantthemes.com/plugins/divi-builder/",
+  "minimum-stability": "stable",
+  "require": {
+	"php": ">=7.0"
+  }
+}
